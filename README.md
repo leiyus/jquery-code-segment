@@ -1,6 +1,6 @@
 # jquery-code-segment
-超实用的jQuery代码段
-第一章：jQuery操作网页
+###超实用的jQuery代码段
+###第一章：jQuery操作网页
 第二章：jQuery操作DOM元素
 第三章：jQuery操作HTML事件
 第四章：jQuery操作CSS样式
